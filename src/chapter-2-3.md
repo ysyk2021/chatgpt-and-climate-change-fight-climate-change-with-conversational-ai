@@ -1,5 +1,3 @@
-Importance of Taking Action to Address Climate Change
-==========================================================================================
 
 In this chapter, we will explore the basics of climate change and the importance of taking action to address it.
 

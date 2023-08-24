@@ -1,5 +1,3 @@
-How AI and Chatbots Can Help Fight Climate Change
-======================================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in addressing climate change.
 

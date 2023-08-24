@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in fighting climate change
-===============================================================================================================
 
 ChatGPT can be a powerful tool in the fight against climate change, but it's important to use it effectively. In this chapter, we will discuss best practices for using ChatGPT in fighting climate change.
 

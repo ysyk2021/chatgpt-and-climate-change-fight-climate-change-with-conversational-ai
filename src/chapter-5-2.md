@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool in the field of conversational AI, with many features and capabilities that make it an effective solution for addressing a wide range of problems. In this chapter, we will discuss the key features and capabilities of ChatGPT.
 

@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Addressing Climate Change
-===================================================================
 
 In this chapter, we will explore the role of AI and chatbots in addressing climate change, their potential to help fight climate change, and the benefits of using AI and chatbots for climate action.
 

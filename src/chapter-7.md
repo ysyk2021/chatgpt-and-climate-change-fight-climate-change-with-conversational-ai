@@ -1,5 +1,3 @@
-Chapter 6: Future of Climate Action with ChatGPT
-================================================
 
 As the world continues to grapple with the effects of climate change, it is becoming increasingly clear that new and innovative solutions are needed. One such solution is the use of ChatGPT-powered conversational AI to help fight climate change.
 

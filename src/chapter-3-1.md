@@ -1,5 +1,3 @@
-Factors Affecting Climate Change
-====================================================================================
 
 In this chapter, we will explore the factors affecting climate change and contributing to the challenges of addressing it.
 

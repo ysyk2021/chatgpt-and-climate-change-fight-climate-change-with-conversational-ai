@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book explores the role of conversational AI, specifically ChatGPT, in fighting climate change. Climate change is one of the most pressing challenges facing our planet today, with far-reaching impacts on ecosystems, wildlife, and human health.
 

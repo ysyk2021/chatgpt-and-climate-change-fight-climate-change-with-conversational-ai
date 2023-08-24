@@ -1,5 +1,3 @@
-Case Studies of Organizations that have Successfully Implemented ChatGPT for Climate Action
-===============================================================================================================================================
 
 Implementing ChatGPT for climate action can be a powerful tool in promoting sustainable living and reducing carbon emissions. In this chapter, we will discuss case studies of organizations that have successfully implemented ChatGPT for climate action.
 

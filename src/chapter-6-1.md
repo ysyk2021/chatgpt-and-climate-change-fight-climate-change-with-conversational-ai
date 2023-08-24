@@ -1,5 +1,3 @@
-Steps to implement ChatGPT for climate action
-=================================================================================================
 
 Implementing ChatGPT for climate action requires a structured approach. In this chapter, we will discuss the steps involved in implementing ChatGPT for climate action.
 

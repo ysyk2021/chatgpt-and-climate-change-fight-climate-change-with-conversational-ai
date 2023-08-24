@@ -1,5 +1,3 @@
-Chapter 1: Basics of Climate Change
-===================================
 
 In this chapter, we will explore the basics of climate change, including its definition, causes and effects, and the importance of taking action to address it.
 

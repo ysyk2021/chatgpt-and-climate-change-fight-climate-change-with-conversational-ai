@@ -1,5 +1,3 @@
-Causes and Effects of Climate Change
-=========================================================================
 
 In this chapter, we will explore the causes and effects of climate change, which is one of the most pressing challenges facing our planet today.
 

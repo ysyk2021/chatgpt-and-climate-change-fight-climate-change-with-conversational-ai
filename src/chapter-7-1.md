@@ -1,5 +1,3 @@
-Potential advancements in climate action with ChatGPT
-=======================================================================================================
 
 ChatGPT has the potential to revolutionize the way we approach climate action. In this chapter, we will discuss some potential advancements in climate action with ChatGPT.
 

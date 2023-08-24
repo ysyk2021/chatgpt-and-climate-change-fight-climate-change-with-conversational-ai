@@ -1,4 +1,3 @@
-# Introduction
 
 Climate change is one of the most pressing issues of our time, and the need for innovative solutions to combat it has never been greater. One such solution is the use of ChatGPT-powered conversational AI to help fight climate change.
 

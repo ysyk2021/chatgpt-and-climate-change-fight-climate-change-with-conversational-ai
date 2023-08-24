@@ -1,5 +1,3 @@
-Definition of Climate Change
-=================================================================
 
 In this chapter, we will explore the definition of climate change and its impact on the environment and society.
 

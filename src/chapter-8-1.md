@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT in the fight against climate change. We have discussed the challenges and opportunities that come with implementing conversational AI for climate action, as well as the key features and capabilities of ChatGPT.
 

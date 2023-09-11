@@ -1,5 +1,4 @@
-Chapter: Case Studies of Organizations Successfully Implementing ChatGPT for Climate Action
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores real-world examples of organizations that have successfully implemented ChatGPT, harnessing the power of conversational AI to drive climate action. These case studies demonstrate how ChatGPT has been utilized to raise awareness, educate, and empower individuals and communities in the fight against climate change.
 

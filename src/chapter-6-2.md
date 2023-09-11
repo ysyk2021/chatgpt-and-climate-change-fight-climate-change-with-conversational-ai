@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Fighting Climate Change
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fight against climate change, emerging technologies like ChatGPT have the potential to play a significant role. By leveraging conversational AI, organizations and individuals can raise awareness, educate, and drive action towards a sustainable future. This chapter explores the best practices for using ChatGPT to effectively combat climate change.
 

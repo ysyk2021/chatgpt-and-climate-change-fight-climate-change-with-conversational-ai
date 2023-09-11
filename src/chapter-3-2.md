@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Individuals and Organizations
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the battle against climate change, individuals and organizations encounter various challenges that hinder their efforts to address this global crisis. This chapter explores some of the common challenges faced by individuals and organizations in their quest to combat climate change, and how ChatGPT and conversational AI can help overcome these obstacles.
 

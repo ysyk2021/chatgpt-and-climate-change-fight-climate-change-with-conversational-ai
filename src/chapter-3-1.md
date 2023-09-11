@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Climate Change
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Climate change is a complex phenomenon influenced by various factors that interact in intricate ways. Understanding these factors is crucial for developing effective strategies to mitigate and adapt to climate change. In this chapter, we explore the key factors that contribute to climate change and examine how ChatGPT and conversational AI can assist in addressing these factors.
 

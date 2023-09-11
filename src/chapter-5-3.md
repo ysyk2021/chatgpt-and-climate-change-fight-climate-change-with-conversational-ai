@@ -1,5 +1,4 @@
-Chapter: How ChatGPT can be Used for Addressing Climate Change
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by conversational AI, offers unique opportunities to address climate change. This chapter explores the various ways in which ChatGPT can be utilized to raise awareness, support behavioral change, and mobilize collective action in the fight against climate change.
 

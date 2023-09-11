@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced conversational AI model powered by OpenAI's GPT-3.5 architecture. It leverages natural language processing techniques to engage in dynamic and interactive conversations with users. ChatGPT has been at the forefront of revolutionizing human-AI interactions and has found diverse applications, including climate change.
 

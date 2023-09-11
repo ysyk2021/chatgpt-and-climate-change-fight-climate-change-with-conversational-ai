@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Climate Action and ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the emerging trends and challenges in climate action and the integration of ChatGPT, powered by conversational AI, in addressing the complexities of climate change. As technology evolves and climate priorities shift, it is crucial to understand the dynamics shaping this intersection and navigate the associated challenges effectively.
 

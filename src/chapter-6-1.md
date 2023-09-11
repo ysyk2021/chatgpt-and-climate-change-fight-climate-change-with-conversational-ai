@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT for Climate Action
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter outlines the essential steps for successfully implementing ChatGPT in climate action. By following these guidelines, organizations can effectively leverage the power of conversational AI technology for raising awareness, educating individuals, and promoting sustainable practices.
 

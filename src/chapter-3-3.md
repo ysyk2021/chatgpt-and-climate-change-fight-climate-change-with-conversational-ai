@@ -1,5 +1,4 @@
-Chapter: Impact of these Challenges on the Environment and Society
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Climate change is one of the most significant challenges faced by humanity, and its impacts are already being felt across the globe. The integration of ChatGPT in climate change discussions holds immense potential to address these challenges, but it also faces certain limitations that could impact the environment and society. In this chapter, we explore the potential negative impacts of ChatGPT and conversational AI on the environment and society.
 

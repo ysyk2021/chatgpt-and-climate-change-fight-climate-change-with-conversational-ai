@@ -1,5 +1,4 @@
-Chapter: Definition of Climate Change
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Climate change refers to long-term variations in weather patterns and average temperatures on Earth. It is primarily caused by human activities, particularly the emission of greenhouse gases into the atmosphere. These gases, such as carbon dioxide (CO2) and methane (CH4), trap heat from the sun, leading to an increase in the Earth's overall temperature. This phenomenon is known as the greenhouse effect.
 

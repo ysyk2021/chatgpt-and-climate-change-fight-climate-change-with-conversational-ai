@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of combating climate change, artificial intelligence (AI) and chatbots are emerging as valuable tools for driving awareness and promoting sustainable practices. This chapter provides an introduction to AI and chatbots, their capabilities, and their potential in the fight against climate change.
 

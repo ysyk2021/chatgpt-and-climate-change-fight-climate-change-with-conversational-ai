@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for Climate Action
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter discusses the benefits of using AI and chatbots for climate action. By adopting these technologies, organizations can harness their capabilities to drive awareness, education, and action towards combating climate change.
 

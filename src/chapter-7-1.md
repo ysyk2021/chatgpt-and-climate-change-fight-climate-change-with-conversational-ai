@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Climate Action with ChatGPT
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by conversational AI, holds immense potential for advancing climate action and strengthening our response to the challenges posed by climate change. This chapter explores the various ways in which ChatGPT can be further developed and harnessed to drive progress in the fight against climate change.
 

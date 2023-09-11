@@ -1,5 +1,4 @@
-Chapter: Causes and Effects of Climate Change
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Climate change is a complex phenomenon that stems from various factors and triggers a wide range of effects. This chapter delves into the causes of climate change and explores its profound impacts on our planet.
 

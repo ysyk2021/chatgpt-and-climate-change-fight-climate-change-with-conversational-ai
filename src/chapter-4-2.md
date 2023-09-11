@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Help Fight Climate Change
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the various ways in which AI and chatbots can contribute to the fight against climate change. By leveraging their capabilities, organizations can utilize conversational AI technology to drive awareness, education, and action towards creating a more sustainable future.
 

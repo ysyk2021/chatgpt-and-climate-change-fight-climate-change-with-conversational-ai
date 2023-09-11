@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by conversational AI, possesses a wide range of features and capabilities that make it an effective tool in the fight against climate change. This chapter explores the key attributes of ChatGPT that contribute to its utility and versatility in addressing this global challenge.
 

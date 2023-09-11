@@ -1,5 +1,4 @@
-Chapter: Importance of Taking Action to Address Climate Change
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Climate change poses significant threats to our planet and future generations. It is crucial that we take immediate and sustained action to address this global challenge. This chapter explores the importance of taking action to mitigate and adapt to climate change.
 

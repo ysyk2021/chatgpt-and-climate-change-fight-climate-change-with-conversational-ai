@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT, powered by conversational AI, in the fight against climate change holds immense promise for addressing this global challenge effectively. This chapter provides a summary of the key findings and explores the future outlook for ChatGPT's role in climate action.
 
